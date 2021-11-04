@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class DevApp {
+  public static void main(String[] args) {
+  
+    Scanner ler = new Scanner(System.in);
+    
+    a = int;
+    
+    System.out.println("Cadastro de cliente:");
+    System.out.print("Nome: ")
+    
+    
+  }
+}
